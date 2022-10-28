@@ -1,5 +1,6 @@
 # Portfolio
-# Screenshot  ![Screenshot (16)](https://user-images.githubusercontent.com/115029574/198714372-fac7a86f-237f-4847-af91-3d6b17121610.png)
+# Screenshot  ![Screenshot (18)](https://user-images.githubusercontent.com/115029574/198715398-c192945b-f2a9-45d6-afac-eb695edb835b.png)
+
 # Technology used   
 * HTML    
 * CSS
